@@ -1,4 +1,8 @@
 ai
+claude
+chatgpt
+openai
+Anthropic
 !gai
 人工智能
 
@@ -7,9 +11,6 @@ ai
 模型训练
 模型预测
 
-数据平台
-数据标注
-数据处理
 
 微软
 Microsoft
@@ -25,12 +26,10 @@ google
 gemini
 deepmind
 
-chatgpt
-openai
 
 
-claude
-Anthropic
+
+
 
 iphone
 ipad
@@ -40,21 +39,8 @@ ios
 !水果
 
 自动驾驶
-
 机器人
-
-国产
-中国
 
 美国
 日本
 韩国
-
-芯片
-光刻机
-
-
-华为
-鸿蒙
-HarmonyOS
-
